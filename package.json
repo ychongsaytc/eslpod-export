@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "async": "^2.6.0",
+    "axios": "^0.18.0",
+    "chalk": "^2.3.2",
+    "dotenv": "^5.0.1",
+    "htmlparser2": "^3.9.2"
+  }
+}
